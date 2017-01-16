@@ -1,2 +1,2 @@
 # Prometheus
-My projects on https://prometheus.org.ua
+My solution of task on https://prometheus.org.ua
